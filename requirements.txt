@@ -1,0 +1,7 @@
+# Forensic PKI Tool Dependencies
+
+# Cryptography library for PKI operations
+cryptography>=41.0.0
+
+# Additional utilities
+python-dateutil>=2.8.2
